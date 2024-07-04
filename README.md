@@ -1,8 +1,30 @@
+<body>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I'm%20Aurora!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7472E7,100:7913BF&height=355&&section=header&text=HI%20Cutie!&fontColor=D88FED&fontSize=100&fontAlign=50&fontAlignY=30&desc=I'm%20Aurora!&descAlign=50&descSize=50&descAlignY=60&animation=twinkling" />
 </p>
 
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&color=A30F73&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;" />
 </p>
+
+<hr />
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=AuroraInHeaven&abbreviated=true&color=DC169C" />
+</p>
+<hr />
+
+<p align="center">
+  <img align="left" width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=AuroraInHeaven&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+  <img align="right" width="400" height="150" src="https://streak-stats.demolab.com?user=AuroraInHeaven&theme=nightowl&hide_border=true&border_radius=6.0&mode=weekly&card_width=400&card_height=150" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=AuroraInHeaven&theme=github-compact&hide_border=true&area=true&height=600" />
+</p>
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=AuroraInHeaven&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraInHeaven&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+</p>
+</body>
