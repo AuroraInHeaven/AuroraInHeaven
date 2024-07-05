@@ -1,10 +1,10 @@
 <body>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7472E7,100:7913BF&height=355&&section=header&text=HI%20Cutie!&fontColor=D88FED&fontSize=100&fontAlign=50&fontAlignY=30&desc=I'm%20Aurora!&descAlign=50&descSize=50&descAlignY=60&animation=twinkling" />
+  <img src="https://raw.githubusercontent.com/AuroraInHeaven/AuroraInHeaven/main/a.svg" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&color=A30F73&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;" />
+  <img src="https://raw.githubusercontent.com/AuroraInHeaven/AuroraInHeaven/main/b.svg" />
 </p>
 
 <hr />
